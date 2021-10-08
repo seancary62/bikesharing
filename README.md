@@ -5,11 +5,13 @@
 In this analyis we looked at 2018 bike sharing data from Citibike and created seveal visualizations wih Tableau. The Tableau story could be use to show hypothetical investors whether or not a bike sharing system would work for Des Moines.
 
 ## Results
-[https://public.tableau.com/views/bikeshare_challenge_16331546410930/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
+<center><iframe src="https://public.tableau.com/views/bikeshare_challenge_16331546410930/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width="1004" height="1269" frameborder="0"></iframe></center>
+
 
 The line chart above displays the trip duration by the volume of bike trips and how long they last. 
 
-[https://public.tableau.com/shared/787CQ74DG?:display_count=n&:origin=viz_share_link]
+<center><iframe src="https://public.tableau.com/shared/GMWYX832Y?:display_count=n&:origin=viz_share_link" width="1004" height="1269" frameborder="0"></iframe></center>
+
 
 This pie chart breaks the sum of each gender to show who is using the service the most.
 
